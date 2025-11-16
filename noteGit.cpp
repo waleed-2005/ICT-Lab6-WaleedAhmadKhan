@@ -10,7 +10,7 @@ It enables remote storage, collaboration, and code sharing among developers.
 #include <iostream>
 using namespace std;
 int main (){
-    cout<<"ICT Lab 6"<<endl;
+    cout<<"ICT Lab 6";
 
 return 0;
 }
